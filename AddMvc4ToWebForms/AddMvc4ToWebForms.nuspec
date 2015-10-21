@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AddMvc4ToWebForms</id>
+    <version>1.0</version>
+    <authors>Abdul Ahad</authors>
+    <owners>Abdul Ahad</owners>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An easy way to integrate MVC4 in your existing ASP.NET WebForms Application.</description>
+    <tags>MVC4 ASP.NET WebForms</tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+	  <dependency id="AspNet.ScriptManager.jQuery" version="2.1.4" />
+    </dependencies>
+  </metadata>
+</package>
